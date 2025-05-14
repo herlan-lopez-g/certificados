@@ -1,0 +1,27 @@
+@media (min-width: 650px) and (max-width: 767.98px) {
+  #kt_content {
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #kt_content {
+    padding-right: 110px;
+    padding-left: 110px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  #kt_content {
+    padding-right: 200px;
+    padding-left: 200px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #kt_content {
+    padding-right: 290px;
+    padding-left: 290px;
+  }
+}
